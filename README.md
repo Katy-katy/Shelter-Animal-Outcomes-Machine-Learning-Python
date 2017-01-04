@@ -1,4 +1,4 @@
-# Shelter Animal Outcomes uning python, ipython notebook, pandas, seaborn, sklearn, matplotlib
+# Shelter Animal Outcomes using python, ipython notebook, pandas, seaborn, sklearn, matplotlib
 
 
 This project was written for a Kaggle competition: https://www.kaggle.com/c/shelter-animal-outcomes/data 
