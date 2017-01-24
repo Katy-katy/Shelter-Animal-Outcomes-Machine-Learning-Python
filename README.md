@@ -3,10 +3,10 @@
 
 This project was written for a Kaggle competition: https://www.kaggle.com/c/shelter-animal-outcomes/data 
 My goal was to predict the outcome of the animal as they leave the Animal Center.
-We use the date comes from Austin Animal Center (October 1st, 2013 - March, 2016). 
-Outcomes represent the status of animals as they leave the Animal Center.
+I used the date comes from Austin Animal Center (October 1st, 2013 - March, 2016). 
+Outcomes represenedt the status of animals as they leave the Animal Center.
 
-I used multi class logistic regression for this project and got log_loss 0.92871. Then I slightly improve the result ussing VotingClassifier with logistic regression, random forest, and CalibratedClassifier as estimators. I got log_loss 0.92197.
+I used multi class logistic regression for this project and got log_loss 0.92871. Then I slightly improve the result using VotingClassifier with logistic regression, random forest, and CalibratedClassifier as estimators. I got log_loss 0.92197.
  
 I also did some useful observations.
 Neutered Male and Spayed Female have a great chance to be adopted, but it is very hard to find new family for Intact Male and Intact Female!
